@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="200" src="https://files.catbox.moe/snoc2l.gif" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Syamsul (or Acuy)</h1>
 <h3 align="center">I like Front-End/Back-End</h3>
 <p align="left">
