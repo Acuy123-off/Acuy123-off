@@ -8,4 +8,4 @@
 
 
 
-![snake gif](https://github.com/Acuy123-off/Acuy123-off/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Acuy123-off/Acuy123-off/blob/output/snake.svg)
