@@ -17,11 +17,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Acuy123-off&theme=gotham&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<!-- ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox) -->
 
----
-[![](https://komarev.com/ghpvc/?username=Acuy123-off&icon=1&color=3)](https://visitcount.itsvg.in)
+<!---
+[![](https://komarev.com/ghpvc/?username=Acuy123-off&icon=1&color=3)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- <h3 align="left">This is What i Learn :</h3>
