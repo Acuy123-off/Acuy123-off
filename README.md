@@ -42,3 +42,4 @@
 <p>Psst! Here's my page that is online right now :</p>
 <a href="https://acuy123-off.github.io/Nembak/">https://acuy123-off.github.io/Nembak</a> <br>
 <a href="https://acuy123-off.github.io/Acuy123-Creations/">https://acuy123-off.github.io/Acuy123-Creations</a>
+<a href="https://sejarahsmkn2smi.blogspot.com/">https://sejarahsmkn2smi.blogspot.com</a>
