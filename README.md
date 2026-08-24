@@ -38,3 +38,7 @@
 
 
 ![snake gif](https://github.com/Acuy123-off/Acuy123-off/blob/output/snake.svg)
+
+<p>Psst! Here's my page that is online right now :</p>
+<a href="https://acuy123-off.github.io/Nembak/">https://acuy123-off.github.io/Nembak</a> <br>
+<a href="https://acuy123-off.github.io/Acuy123-Creations/">https://acuy123-off.github.io/Acuy123-Creations</a>
